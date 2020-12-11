@@ -1,0 +1,116 @@
+
+body {
+  
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+
+ 
+  background-image: url('images/light-grey-terrazzo.png');
+  
+ 
+  margin-top: 70px;
+
+}
+
+html {
+  /* Positioning */
+  position: relative;
+
+  /* Box-model */
+  min-height: 100%;
+}
+
+/* add space for fixed nav */
+
+
+
+#images {
+  /* Box-model */
+  padding-top: 15px;
+
+  /* Typography */
+  text-align: center;
+
+}
+/* END CONNECT W/ ME */
+
+
+/* BEGIN FOOTER */
+.footer {
+  /* Positioning */
+  position: absolute;
+  bottom: 0;
+
+  /* Box-model */
+  width: 100%;
+  height: 60px;
+
+  /* Visual */
+  background-color: #666;
+}
+
+.text-muted-footer {
+  /* Box-model */
+  margin-top: 15px;
+
+  /* Typography */
+  color: #fff;
+}
+
+
+
+
+
+
+
+
+.port-image {
+  margin: 20px auto;
+  width:350px;
+  height: 350px;
+}
+
+
+
+
+
+
+
+ .personalImg{
+   width: 350px;
+  height: 350px; 
+  border: 2px solid black;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.row{
+  
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -49px;
+    margin-left: -15px;
+
+}
+.figure-img{
+  border: 2px solid black;
+  border-radius: 50px;
+ 
+}
+.project{
+  width: 200px;
+  height: 200px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.images{
+  background: white;
+}
+.figure-caption{
+  font-size: 1rem;
+  font-weight: 700;
+  text-align: center;
+  text-decoration:none;
+
+}
