@@ -1,16 +1,23 @@
-### Hi there 👋
+## portfolio
+* A  portfolio informatiom that allows the anyone to lookup a at my information and my experience. The employer will see the home page which it has my photo with apargraph about me. Also, in th navbar he will see portfolio and contac page . In portfolio page, there are five diffrent photo and also can see three projects 
+
+## Requires:
+* Bootstrap
+* CSS
+* html
+* font awesome
+* google font 
+
+## visual 
+* ![home image](home.png)
+
+* ![contact image](contact.png)
+
+## GITHUB LINK
+* [github repo](https://github.com/mohamedahmed-1980/mohamedahmed-1980.git)
+
+## web link
+* [portfolio](https://mohamedahmed-1980.github.io/mohamedahmed-1980/)
 
 
-**mohamedahmed-1980/mohamedahmed-1980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on zenith academy
-- 🌱 I’m currently learning webdevelpoment
-- 👯 I’m looking to collaborate on javascript
-- 🤔 I’m looking for help with backend
-- 💬 Ask me about html
-- 📫 How to reach me: mohamedahmed0912@hotmial.com
-- 😄 Pronouns: 
-- ⚡ Fun fact: I play soccer
 
