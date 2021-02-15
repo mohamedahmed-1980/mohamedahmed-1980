@@ -26,9 +26,11 @@ html {
 #images {
   /* Box-model */
   padding-top: 15px;
+  width:400px;
 
   /* Typography */
   text-align: center;
+
 
 }
 /* END CONNECT W/ ME */
@@ -99,8 +101,8 @@ html {
  
 }
 .project{
-  width: 200px;
-  height: 200px;
+  width: 400px;
+  height: 300px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
 }
@@ -113,4 +115,9 @@ html {
   text-align: center;
   text-decoration:none;
 
+}
+p{
+  border-radius: 20% solid black;
+  padding: 2%;
+  background: rgb(238 238 234);
 }
