@@ -21,16 +21,10 @@
 
 
 ## Contact Information 
-* Linkid In :  [mohmaed-ahmed-a82230201](https://linkedin.com/in/mohmaed-ahmed-a82230201)
-* Portfolin : [Mhamed Ahmed portfolio](https://mohamedahmed-1980.github.io/mohamedahmed-1980/)
+* Linked In :  [mohmaed-ahmed-a82230201](https://linkedin.com/in/mohmaed-ahmed-a82230201)
+* Portfolio : [Mhamed Ahmed portfolio](https://mohamedahmed-1980.github.io/mohamedahmed-1980/)
 * MY Email : mohamedahmed0912@hotmail.com
 
-* ![contact image](contact.png)
-
-## GITHUB LINK
-* [github repo](https://github.com/mohamedahmed-1980/mohamedahmed-1980.git)
-
-## web link
 
 
 
