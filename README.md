@@ -21,7 +21,7 @@
 
 
 ## Contact Information 
-* Linkid In : linkedin.com/in/mohmaed-ahmed-a82230201
+* Linkid In : (linkedin.com/in/mohmaed-ahmed-a82230201)
 
 * ![contact image](contact.png)
 
