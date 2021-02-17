@@ -121,3 +121,9 @@ p{
   padding: 2%;
   background: rgb(238 238 234);
 }
+h1 {
+  font-size: 4.5rem;
+  text-align: center;
+  margin-bottom: 6%;
+  text-shadow: 2px 2px #ff0000;
+}
