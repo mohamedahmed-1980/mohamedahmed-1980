@@ -1,9 +1,6 @@
 ## Hello everyone
-- My name is Mohamed Ahmed 
-- I'm currently learning  about full stack development
-- I will graduate in April-2021 as a full stack developer.
-- I love coding, playing soccer, watching succer game, reading and swimming.
-
+- am a Front-End Developer proficient in JavaScript, React, and Next.js, with additional experience in NodeJS, 
+ - MySQL, MongoDB, Express, and Handlebars.js
 ## Languages and technologies 
 - HTML
 - Css
@@ -16,7 +13,7 @@
 - MySQL
 - mongoDB
 - mongoose
-- Indexed
+- next.js
 - React
 
 
