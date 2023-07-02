@@ -1,6 +1,6 @@
 ## Hello everyone
--I am a Front-End Developer proficient in JavaScript, React, and Next.js, with additional experience in NodeJS, 
- - MySQL, MongoDB, Express, and Handlebars.js
+- I am a Front-End Developer proficient in JavaScript, React, and Next.js, with additional experience in NodeJS, 
+- MySQL, MongoDB, Express, and Handlebars.js
 ## Languages and technologies 
 - HTML
 - Css
